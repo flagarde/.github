@@ -1,0 +1,13 @@
+{
+  "name": "Windows",
+  "description": "Compile for Windows",
+  "iconName": "windows",
+  "categories":
+  [
+    "C++", "C", "CMake"
+  ],
+  "filePatterns":
+  [
+    "CMakeLists.txt"
+  ]
+}
