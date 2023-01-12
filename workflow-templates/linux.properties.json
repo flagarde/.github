@@ -1,0 +1,13 @@
+{
+  "name": "Linux",
+  "description": "Compile for Linux",
+  "iconName": "linux",
+  "categories":
+  [
+    "C++", "C", "CMake"
+  ],
+  "filePatterns":
+  [
+    "CMakeLists.txt"
+  ]
+}
