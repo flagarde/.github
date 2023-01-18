@@ -1,0 +1,13 @@
+{
+  "name": "Alpine",
+  "description": "Compile for Alpine",
+  "iconName": "alpine",
+  "categories":
+  [
+    "C++", "C", "CMake"
+  ],
+  "filePatterns":
+  [
+    "CMakeLists.txt"
+  ]
+}
